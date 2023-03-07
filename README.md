@@ -1,1 +1,2 @@
-My first readme
+- This is a test project to familiarise myself with git and github
+- I have now learnt about branches. 
